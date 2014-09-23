@@ -1,0 +1,15 @@
+com\trs\xmtdb\functional\gui\RegisterFT.class
+com\trs\xmtdb\functional\gui\UserAdminFT.class
+com\trs\xmtdb\data\TaskData.class
+com\trs\xmtdb\functional\gui\SecurityFT.class
+com\trs\xmtdb\QuickStartServer.class
+com\trs\xmtdb\functional\gui\TaskGuiFT.class
+com\trs\xmtdb\functional\BaseFunctionalTestCase.class
+com\trs\xmtdb\functional\BaseSeleniumTestCase.class
+com\trs\xmtdb\repository\TaskDaoTest.class
+com\trs\xmtdb\data\UserData.class
+com\trs\xmtdb\functional\gui\ProfileFT.class
+com\trs\xmtdb\functional\rest\TaskRestFT.class
+com\trs\xmtdb\functional\rest\TaskRestFT$TaskList.class
+com\trs\xmtdb\repository\JpaMappingTest.class
+com\trs\xmtdb\service\account\AccountServiceTest.class
